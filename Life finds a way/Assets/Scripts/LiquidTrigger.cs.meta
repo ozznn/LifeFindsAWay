@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: de58eb799109de541a11708bb4b0d02a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverCanvas: {fileID: 4254572434853250081, guid: 2e842c10914976e45a028037942b4a21, type: 3}
+  - currentState: {fileID: 4128216320677527808, guid: 8c6d61bf321a06643bbcc07287f03507, type: 3}
+  executionOrder: 1200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

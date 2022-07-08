@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7757fc5e070a6954e969514ada7c6434
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverCanvas: {fileID: 4254572434853250081, guid: 2e842c10914976e45a028037942b4a21, type: 3}
+  - waterSplash: {fileID: 8300000, guid: fbe7e4c7616229b4b896d79f42204749, type: 3}
+  executionOrder: 1150
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
